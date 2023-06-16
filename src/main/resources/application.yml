@@ -1,0 +1,4 @@
+server:
+  port: 5000
+products:
+  url: http://localhost:3001/product/{id}
